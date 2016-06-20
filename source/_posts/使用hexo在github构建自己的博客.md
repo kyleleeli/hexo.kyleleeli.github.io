@@ -45,5 +45,3 @@ $ npm install hexo-deployer-git --save
 ### 参考：
 - [使用hexo搭建github.io博客(一)](http://www.cnblogs.com/liulangmao/p/4323064.html)
 - [基于Hexo+GitHub Pages 免费搭建个人博客最强教程](http://www.jianshu.com/p/2b9f202c13fd)
-
-
